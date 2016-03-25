@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StockQuotes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="no_title">No title</string>
+
+    <!-- Company names -->
+    <string name="co_aapl">AAPL</string>
+    <string name="co_goog">GOOG</string>
+    <string name="co_msft">MSFT</string>
+    <string name="co_yhoo">YHOO</string>
+
+    <string name="last_quote_date">Last quote date</string>
+    <string name="open">Open</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="close">Close</string>
+    <string name="volume">Volume</string>
+
+</resources>

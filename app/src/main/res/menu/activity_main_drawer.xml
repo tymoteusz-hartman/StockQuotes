@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Company name">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_aapl"
+                        android:title="@string/co_aapl" />
+                    <item
+                        android:id="@+id/nav_goog"
+                        android:title="@string/co_goog" />
+                    <item
+                        android:id="@+id/nav_msft"
+                        android:title="@string/co_msft" />
+                    <item
+                        android:id="@+id/nav_yhoo"
+                        android:title="@string/co_yhoo" />
+                </group>
+            </menu>
+    </item>
+
+</menu>
